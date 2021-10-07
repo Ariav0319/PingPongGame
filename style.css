@@ -1,0 +1,27 @@
+.heading{
+    margin-top: 0;
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float: right;
+}
+body{
+    text-align: center;
+}
+#play{
+    font-size: 15px;
+}
+.steps{
+    font-size: 20px;
+    color: black;
+}
+.copy_right_footer{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    color: white;
+}
